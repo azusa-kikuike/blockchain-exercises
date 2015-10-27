@@ -1,0 +1,17 @@
+{
+  "name": "blockchain-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "azusa.kikuchi",
+  "license": "ISC",
+  "dependencies": {
+    "js-sha512": "^0.2.2",
+    "ripemd160": "^1.0.1",
+    "sha1": "^1.1.1",
+    "sha256": "^0.2.0"
+  }
+}
