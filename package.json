@@ -9,6 +9,9 @@
   "author": "azusa.kikuchi",
   "license": "ISC",
   "dependencies": {
+    "bs58": "^3.0.0",
+    "bs58check": "^1.0.6",
+    "create-hash": "^1.1.2",
     "js-sha512": "^0.2.2",
     "ripemd160": "^1.0.1",
     "sha1": "^1.1.1",
